@@ -14,7 +14,7 @@ var cordova = require('./helper/cordova'),
  * Specification.
  */
 
-describe('phonegap-plugin-push', function () {
+describe('phonegap-plugin-ete-push', function () {
     beforeEach(function () {
         options = {android: {}, ios: {}, windows: {}};
         execWin = jasmine.createSpy();

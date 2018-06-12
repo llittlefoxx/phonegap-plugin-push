@@ -1,5 +1,5 @@
 {
-  "name": "phonegap-plugin-push",
+  "name": "phonegap-plugin-ete-push",
   "description": "bower package for server side javascript",
   "main": "www/push.js",
   "authors": [
